@@ -1,0 +1,44 @@
+﻿h1, h2, h3 {
+    color: maroon; /* this is maroon*/
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 0;
+    color: #fff;
+    font-family: Palatino;
+    font-weight: 200;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.red{
+    background-color: #990015
+}
+
+.section-header {
+    background: #de8968;
+    padding: 1rem;
+    position: sticky;
+    top: 0;
+}
+
+.subsection-header {
+    background: #de6c68;
+    padding: 1rem;
+    position: sticky;
+    top: 0;
+}
+
+.font {
+    font-family: Trebuchet MS;
+    font-size: 18px;
+}
